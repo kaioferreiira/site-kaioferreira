@@ -1,0 +1,27 @@
+body{
+	background-color: #87CEFA;
+	background-image: url('../img/bg-background3.jpg');
+	background-size: auto;
+	background-repeat: none;
+
+
+}
+
+.container-fluid{
+	background-color: none;
+	margin-top: 150px;
+}
+
+.profile{
+
+}
+
+.img-profile{
+	width: 140px; 
+	height: 140px; 
+	
+}
+
+.navigation{
+
+}
